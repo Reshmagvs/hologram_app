@@ -1,0 +1,5 @@
+{
+  "name": "Innoxr Labs Holography",
+  "description": "A client-side holographic reconstruction tool using video frame extraction and pseudo-depth splatting.",
+  "requestFramePermissions": []
+}
